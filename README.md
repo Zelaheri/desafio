@@ -2,8 +2,8 @@
 
 Criação de uma lista de produtos e busca por filtro
 
-## É importante:
- - O entendimento de componentes e enclausuramento.
- - Props e composição (repasse de props).
- - State hooks.
+## É importante saber;
+ - Componentização em React;
+ - props e composição (repasse de props);
+ - hook useState;
  - funções e métodos específicos de JavaScript (.forEach()).
